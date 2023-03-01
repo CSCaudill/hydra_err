@@ -1,0 +1,3 @@
+defaults:
+ - base_config
+ - account: default

@@ -1,0 +1,5 @@
+defaults:
+ - base_account
+
+user: user_123
+password: 1E234
